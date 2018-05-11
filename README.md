@@ -43,4 +43,4 @@ PDF with the reweighting feature of powheg box v2.
 
 ## how to check on negative weights ##
 After running stages 1-3, the fil 'pwg-*-stat.dat' will tell you the negative weight fraction, which should
-be way below 1%, at best. Large negative weight fractions become large for very small bornsuppfact/bornktmin.
+be way below 1%, at best. Negative weight fractions become large for very small bornsuppfact/bornktmin.
