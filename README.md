@@ -29,6 +29,7 @@ The script asks for 7 arguments, corresponding to the six stages + number of cpu
 - running the preparation phases using one core: ./run.sh 1 1 1 0 0 0 1
 - generating events using one core: ./run.sh 0 0 0 1 0 0 1
 - running pdf variations on existing LHEF files using eight cores : ./run.sh 0 0 0 0 0 1 8
+
 NB: a file 'timings.txt' will hold the date and time, where a stage started, so you can better figure out
 time consumption.
 
